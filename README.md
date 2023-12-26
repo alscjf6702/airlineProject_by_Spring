@@ -333,7 +333,7 @@
 
 <details>
   <summary>
-    헤더/메인화면
+    🐾헤더/메인화면
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/a29e680b-7fb6-4754-ac8d-cfdf26713e09
@@ -342,7 +342,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/a29e680b-7fb6-4754-a
 
 <details>
   <summary>
-    회원가입(일반)
+    🐾회원가입(일반)
   </summary>
   
 https://github.com/dwdwdw12/project_spring/assets/147116004/a1ac86ab-5964-498a-ba3a-45fda40c32b8
@@ -351,7 +351,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/a1ac86ab-5964-498a-b
 
 <details>
   <summary>
-    카카오 로그인
+    🐾카카오 로그인
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/739d9087-23f9-4a6b-91b2-790807557169
@@ -360,7 +360,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/739d9087-23f9-4a6b-9
 
 <details>
   <summary>
-    아이디/비밀번호 찾기
+    🐾아이디/비밀번호 찾기
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/336d3052-a764-420e-9ad2-7c0359b0da7b
@@ -369,7 +369,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/336d3052-a764-420e-9
 
 <details>
   <summary>
-    마이페이지(유저)
+    🐾마이페이지(유저)
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/dcf44b92-3996-478a-9a97-af421dfad940
@@ -378,7 +378,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/dcf44b92-3996-478a-9
 
 <details>
   <summary>
-    마이페이지(관리자)
+    🐾마이페이지(관리자)
   </summary>
   
 https://github.com/dwdwdw12/project_spring/assets/147116004/4ac4c0a6-851c-432f-8833-fdb630d8dbd6
@@ -387,7 +387,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/4ac4c0a6-851c-432f-8
 
 <details>
   <summary>
-    상담톡, 회원편의
+    🐾상담톡, 회원편의
   </summary>
   <br>
 상담톡<br>
@@ -402,7 +402,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/821ec9cf-db44-4d7a-9
 
 <details>
   <summary>
-    항공편 검색/출도착 조회
+    🐾항공편 검색/출도착 조회
   </summary>
   <br>
 항공편 검색<br>
@@ -418,7 +418,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/da3230bc-bb31-44fd-a
 
 <details>
   <summary>
-    예약 및 결제
+    🐾예약 및 결제
   </summary>
   
 https://github.com/dwdwdw12/project_spring/assets/147116004/8799aa79-45e6-4b73-9d04-6e6bc4d73397
@@ -427,7 +427,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/8799aa79-45e6-4b73-9
 
 <details>
   <summary>
-    공지사항
+    🐾공지사항
   </summary>
 
 
@@ -438,7 +438,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/a5782334-2e50-467f-a
 
 <details>
   <summary>
-    Q&A 게시판
+    🐾Q&A 게시판
   </summary>
 
 
@@ -449,7 +449,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/047e036d-96fb-49bf-a
 
 <details>
   <summary>
-    여행일기 게시판
+    🐾여행일기 게시판
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/2381e34b-96f8-4807-8dd4-208a39655a60
@@ -458,7 +458,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/2381e34b-96f8-4807-8
 
 <details>
   <summary>
-    이벤트 게시판
+    🐾이벤트 게시판
   </summary>
 
 https://github.com/dwdwdw12/project_spring/assets/147116004/1f950262-9934-4522-9d86-dcdbdacdb0a9
