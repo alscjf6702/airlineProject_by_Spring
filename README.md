@@ -197,7 +197,7 @@
  
 <details>
   <summary>
-    ⚡회원 편의/카카오 상담
+    ⚡회원 편의/카카오 상담 (내가 구현한 부분)
   </summary>
 
   ![Slide16](https://github.com/dwdwdw12/project/assets/147116004/18b09ef0-e5ba-48c8-845b-56b5edac1a06)
@@ -214,7 +214,7 @@
 
 <details>
   <summary>
-    ⚡게시판
+    ⚡게시판 (내가 구현한 부분(QnA,공지사항))
   </summary>
   
 ![Slide19](https://github.com/dwdwdw12/project/assets/147116004/af016c9e-0607-4811-97d2-9dbae74739f9)
@@ -300,7 +300,7 @@
 
 <details>
   <summary>
-    🐾회원편의 / 카카오상담
+    🐾회원편의 / 카카오상담 (내가 구현한 부분)
   </summary>
 
 ![Slide41](https://github.com/dwdwdw12/project/assets/147116004/a4f90678-e6e5-43f5-bef3-6e4993dc76ec)
@@ -318,7 +318,7 @@
 
 <details>
   <summary>
-    🐾게시판
+    🐾게시판 (내가 구현한 부분(QnA,공지사항))
   </summary>
   
 ![Slide45](https://github.com/dwdwdw12/project/assets/147116004/f4ca171c-7195-4a81-92b2-b62ea2575e3a)
@@ -387,7 +387,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/4ac4c0a6-851c-432f-8
 
 <details>
   <summary>
-    🐾상담톡, 회원편의
+    🐾상담톡, 회원편의 (내가 구현한 부분)
   </summary>
   <br>
 상담톡<br>
@@ -427,7 +427,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/8799aa79-45e6-4b73-9
 
 <details>
   <summary>
-    🐾공지사항
+    🐾공지사항 (내가 구현한 부분)
   </summary>
 
 
@@ -438,7 +438,7 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/a5782334-2e50-467f-a
 
 <details>
   <summary>
-    🐾Q&A 게시판
+    🐾Q&A 게시판 (내가 구현한 부분)
   </summary>
 
 
